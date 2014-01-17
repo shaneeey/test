@@ -1,6 +1,6 @@
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="test.css"/>
+<link rel="stylesheet" type="test/css" href="test.css"/>
 </head>
 <body>
 <h1> Your message </h1>
